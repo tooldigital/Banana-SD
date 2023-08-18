@@ -2,6 +2,7 @@
 This is a Potassium HTTP server, created with `banana init` CLI
 #comeon
 
+TEST
 
 ### Testing
 Start a local dev server with `banana dev`
