@@ -11,7 +11,7 @@ app = Potassium("my_app")
 @app.init
 def init():
 
-    repo_id="Meina/MeinaUnreal_V3"
+    repo_id="stabilityai/stable-diffusion-2-1"
 
     ddpm = DDPMScheduler.from_pretrained(repo_id, subfolder="scheduler")
     
